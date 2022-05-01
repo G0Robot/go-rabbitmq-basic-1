@@ -1,4 +1,4 @@
-package receiver
+package main
 
 import (
 	"go-rabbitmq-basic-1/services"
